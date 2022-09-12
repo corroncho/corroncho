@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corroncho
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on .. my process
 - 📫 How to reach me ...arq.karincortesm@gmail.com
